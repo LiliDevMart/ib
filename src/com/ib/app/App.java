@@ -10,5 +10,9 @@ public class App {
 	public void fonction1() {
 		System.out.println("Fonction 1");
 	}
+	
+	public void fonction2() {
+		System.out.println("Fonction 2");
+	}
 
 }
